@@ -8,8 +8,8 @@ in Information systems and I have an MBA in Software Engineering at UFRJ Univers
 
 
 ### Technologies
+- IOS Development with Swift(UIKit and SwiftUI)
 - .NET Development with C#.
-- IOS Development with Swift(UIKit)
 - C++
 
 ### If you'd like to contact me:
