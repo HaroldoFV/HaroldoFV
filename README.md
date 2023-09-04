@@ -10,6 +10,7 @@ in Information systems and I have an MBA in Software Engineering at UFRJ Univers
 ### Technologies
 - .NET Development with C#.
 - C++
+- Rust
 
 ### If you'd like to contact me:
 -  haroldovinente@gmail.com and  <a href="https://www.linkedin.com/in/haroldo-vinente-b959a687" target="_blank">Linkedin</a>
