@@ -9,6 +9,7 @@ in Information systems and I have an MBA in Software Engineering at UFRJ Univers
 
 ### Technologies
 - .NET Development with C#.
+- Python
 - C++
 - Golang
 
