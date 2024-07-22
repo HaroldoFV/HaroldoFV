@@ -4,7 +4,6 @@
 
 - 🔭 I'm currently working with **.NET/C# and Golang**
 - 🌱 I'm also expanding my knowledge in **Golang**
-- 👨‍💻 All of my projects are available at [https://github.com/HaroldoFV](https://github.com/HaroldoFV)
 - 💬 Ask me about **.NET/C# and Golang**
 - 📫 How to reach me: **haroldovinente@gmail.com**
 
