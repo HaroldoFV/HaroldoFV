@@ -29,3 +29,21 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Featured Projects:</h3>
+
+<h4>URL Shortener Service</h4>
+
+This project is a URL shortening service implemented in Golang. It allows users to create short links for long URLs, facilitating link sharing and management.
+
+**Key Features**
+- Generation of unique slugs for each URL
+- User-customizable slugs
+- Redirection from slugs to original URLs
+- RESTful API for creating and managing short links
+- Redis integration for data storage
+- Load balancing and reverse proxy with Nginx
+- Containerization with Docker and orchestration with Docker Compose
+- API documentation with Swagger
+  
+[Link to the project repository](https://github.com/HaroldoFV/URLShortener)
